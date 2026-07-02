@@ -1,0 +1,8 @@
+avatarchat-backend/
+avatarchat-web/
+avatarchat-mobile/
+.claude/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
